@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/madhulika9955/Leet-Code/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/madhulika9955/Leet-Code/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
