@@ -17,6 +17,7 @@
 | [0006-zigzag-conversion](https://github.com/madhulika9955/Leet-Code/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/madhulika9955/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhulika9955/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
