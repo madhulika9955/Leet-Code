@@ -34,6 +34,7 @@
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/madhulika9955/Leet-Code/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/madhulika9955/Leet-Code/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/madhulika9955/Leet-Code/tree/master/0262-trips-and-users) |
 ## Two Pointers
 |  |
 | ------- |
