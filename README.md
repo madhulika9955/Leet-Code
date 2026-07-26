@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/madhulika9955/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/madhulika9955/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 ## Trie
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhulika9955/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/madhulika9955/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/madhulika9955/Leet-Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
