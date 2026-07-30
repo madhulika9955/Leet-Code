@@ -39,6 +39,7 @@
 | [0262-trips-and-users](https://github.com/madhulika9955/Leet-Code/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/madhulika9955/Leet-Code/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/madhulika9955/Leet-Code/tree/master/0577-employee-bonus) |
+| [0595-big-countries](https://github.com/madhulika9955/Leet-Code/tree/master/0595-big-countries) |
 ## Two Pointers
 |  |
 | ------- |
