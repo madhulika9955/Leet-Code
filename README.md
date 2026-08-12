@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhulika9955/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0011-container-with-most-water](https://github.com/madhulika9955/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/madhulika9955/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
+| [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## Trie
 |  |
 | ------- |
@@ -66,10 +68,12 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
+| [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhulika9955/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## String Matching
 |  |
 | ------- |
@@ -82,4 +86,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhulika9955/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
