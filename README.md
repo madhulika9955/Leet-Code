@@ -28,6 +28,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhulika9955/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/madhulika9955/Leet-Code/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 | [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## Trie
@@ -51,6 +52,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhulika9955/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/madhulika9955/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhulika9955/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
@@ -68,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 | [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## Greedy
