@@ -30,6 +30,7 @@
 | [0014-longest-common-prefix](https://github.com/madhulika9955/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
+| [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## Trie
 |  |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
