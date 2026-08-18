@@ -12,6 +12,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
