@@ -13,6 +13,7 @@
 | [0007-reverse-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhulika9955/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
