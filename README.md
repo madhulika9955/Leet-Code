@@ -12,6 +12,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
 ## String
@@ -27,6 +28,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhulika9955/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/madhulika9955/Leet-Code/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/madhulika9955/Leet-Code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +128,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
