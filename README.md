@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
@@ -132,4 +133,16 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
