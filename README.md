@@ -67,6 +67,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhulika9955/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhulika9955/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,4 +148,9 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
