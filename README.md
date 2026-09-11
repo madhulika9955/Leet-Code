@@ -62,6 +62,7 @@
 | [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhulika9955/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/madhulika9955/Leet-Code/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhulika9955/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madhulika9955/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/madhulika9955/Leet-Code/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
