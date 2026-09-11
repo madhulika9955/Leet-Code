@@ -29,6 +29,7 @@
 | [0038-count-and-say](https://github.com/madhulika9955/Leet-Code/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/madhulika9955/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
+| [0087-scramble-string](https://github.com/madhulika9955/Leet-Code/tree/master/0087-scramble-string) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhulika9955/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/madhulika9955/Leet-Code/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
