@@ -104,6 +104,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/madhulika9955/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madhulika9955/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/madhulika9955/Leet-Code/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhulika9955/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
 | ------- |
@@ -147,17 +148,24 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhulika9955/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhulika9955/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhulika9955/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/madhulika9955/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
