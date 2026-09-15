@@ -6,6 +6,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhulika9955/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/madhulika9955/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## Math
 |  |
@@ -38,6 +39,7 @@
 | [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 | [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/madhulika9955/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 | [0621-task-scheduler](https://github.com/madhulika9955/Leet-Code/tree/master/0621-task-scheduler) |
 ## Trie
 |  |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/madhulika9955/Leet-Code/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
