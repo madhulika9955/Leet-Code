@@ -16,6 +16,7 @@
 | [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
+| [0640-solve-the-equation](https://github.com/madhulika9955/Leet-Code/tree/master/0640-solve-the-equation) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0058-length-of-last-word](https://github.com/madhulika9955/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/madhulika9955/Leet-Code/tree/master/0087-scramble-string) |
+| [0640-solve-the-equation](https://github.com/madhulika9955/Leet-Code/tree/master/0640-solve-the-equation) |
 ## Array
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
+| [0640-solve-the-equation](https://github.com/madhulika9955/Leet-Code/tree/master/0640-solve-the-equation) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,4 +181,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0022-generate-parentheses) |
+## Linear Algebra
+|  |
+| ------- |
+| [0640-solve-the-equation](https://github.com/madhulika9955/Leet-Code/tree/master/0640-solve-the-equation) |
 <!---LeetCode Topics End-->
