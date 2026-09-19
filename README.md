@@ -26,6 +26,7 @@
 | [0014-longest-common-prefix](https://github.com/madhulika9955/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhulika9955/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhulika9955/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/madhulika9955/Leet-Code/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/madhulika9955/Leet-Code/tree/master/0058-length-of-last-word) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhulika9955/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/madhulika9955/Leet-Code/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhulika9955/Leet-Code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sorting
 |  |
@@ -171,4 +174,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/madhulika9955/Leet-Code/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/madhulika9955/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/madhulika9955/Leet-Code/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
