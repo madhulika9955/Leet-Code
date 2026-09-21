@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhulika9955/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/madhulika9955/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/madhulika9955/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/madhulika9955/Leet-Code/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/madhulika9955/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhulika9955/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/madhulika9955/Leet-Code/tree/master/0024-swap-nodes-in-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
