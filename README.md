@@ -13,6 +13,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/madhulika9955/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/madhulika9955/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
@@ -153,6 +154,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/madhulika9955/Leet-Code/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 ## Tree
 |  |
