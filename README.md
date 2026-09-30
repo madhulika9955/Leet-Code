@@ -19,6 +19,7 @@
 | [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/madhulika9955/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0640-solve-the-equation](https://github.com/madhulika9955/Leet-Code/tree/master/0640-solve-the-equation) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/madhulika9955/Leet-Code/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/madhulika9955/Leet-Code/tree/master/0067-add-binary) |
 | [0640-solve-the-equation](https://github.com/madhulika9955/Leet-Code/tree/master/0640-solve-the-equation) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/madhulika9955/Leet-Code/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/madhulika9955/Leet-Code/tree/master/3417-zigzag-grid-traversal-with-skip) |
 ## Binary Search
 |  |
@@ -199,4 +201,8 @@
 |  |
 | ------- |
 | [0640-solve-the-equation](https://github.com/madhulika9955/Leet-Code/tree/master/0640-solve-the-equation) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/madhulika9955/Leet-Code/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
