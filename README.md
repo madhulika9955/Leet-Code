@@ -43,6 +43,7 @@
 | [0014-longest-common-prefix](https://github.com/madhulika9955/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/madhulika9955/Leet-Code/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/madhulika9955/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/madhulika9955/Leet-Code/tree/master/0039-combination-sum) |
 | [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
@@ -73,6 +74,7 @@
 | [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/madhulika9955/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/madhulika9955/Leet-Code/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/madhulika9955/Leet-Code/tree/master/0086-partition-list) |
 ## Dynamic Programming
 |  |
