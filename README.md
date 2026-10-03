@@ -45,6 +45,7 @@
 | [0015-3sum](https://github.com/madhulika9955/Leet-Code/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/madhulika9955/Leet-Code/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/madhulika9955/Leet-Code/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhulika9955/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/madhulika9955/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/madhulika9955/Leet-Code/tree/master/0039-combination-sum) |
 | [0059-spiral-matrix-ii](https://github.com/madhulika9955/Leet-Code/tree/master/0059-spiral-matrix-ii) |
@@ -151,6 +152,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/madhulika9955/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/madhulika9955/Leet-Code/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
